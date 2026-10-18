@@ -1,0 +1,11 @@
+EXPORTS
+PassThruOpen
+PassThruClose
+PassThruReadVersion
+PassThruGetLastError
+PassThruConnect
+PassThruDisconnect
+PassThruReadMsgs
+PassThruWriteMsgs
+PassThruStartMsgFilter
+PassThruIoctl
